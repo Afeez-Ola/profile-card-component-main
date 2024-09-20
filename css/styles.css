@@ -65,4 +65,9 @@ button {
     border-radius: 1.4rem 1.4rem 0 0;
 }
 
-.card {}
+.card .profile_image {
+    position: relative;
+    border: white 0.4rem solid;
+    border-radius: 50%;
+    bottom: 3.5rem;
+}
