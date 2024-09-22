@@ -71,3 +71,11 @@ button {
     border-radius: 50%;
     bottom: 3.5rem;
 }
+
+.profile_name_age {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 2rem;
+}
