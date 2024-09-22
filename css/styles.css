@@ -94,3 +94,9 @@ button {
     font-size: 1rem;
     font-weight: 400;
 }
+
+hr {
+    color: var(--dark-gray);
+    margin-bottom: 0.5rem;
+    height: 0.2rem;
+}
