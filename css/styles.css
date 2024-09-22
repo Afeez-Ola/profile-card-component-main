@@ -54,6 +54,10 @@ button {
     cursor: pointer;
 }
 
+p {
+    color: var(--dark-gray);
+}
+
 .container {
     width: 90%;
     border-radius: 1.4rem;
@@ -84,13 +88,11 @@ button {
 .age {
     margin-left: 1rem;
     font-size: 1.4rem;
-    color: var(--dark-gray);
 }
 
 .city {
     position: relative;
     bottom: 1.3rem;
-    color: var(--dark-gray);
     font-size: 1rem;
     font-weight: 400;
 }
@@ -99,4 +101,16 @@ hr {
     color: var(--dark-gray);
     margin-bottom: 0.5rem;
     height: 0.2rem;
+}
+
+.socials {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+
+.socials p {
+    font-size: 0.7rem;
+    font-weight: 400;
 }
