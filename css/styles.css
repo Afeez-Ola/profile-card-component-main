@@ -79,3 +79,8 @@ button {
     position: relative;
     bottom: 2rem;
 }
+
+.age {
+    margin-left: 1rem;
+    font-size: 1.4rem;
+}
