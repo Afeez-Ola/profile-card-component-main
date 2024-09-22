@@ -117,3 +117,15 @@ hr {
     letter-spacing: 0.14rem;
     margin-top: .4rem;
 }
+
+@media screen and (min-width:30rem) {
+    .container {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:60rem) {
+    .container {
+        width: 30%;
+    }
+}
